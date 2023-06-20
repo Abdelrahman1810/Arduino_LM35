@@ -10,6 +10,7 @@
 ## Connection
     1. LM35 sensor Connection 
         - left side of LM35 sensor to Vcc and other size to GND
+            > like in the image below 
         - the middle OUT of the sensor <---> A0
 
     2. LiquidCrystal_I2C Connection
